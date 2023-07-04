@@ -1,4 +1,5 @@
-# Tetris Game
+# Tetris Game 
+I just wanna  watch AI do its most
 
 It is a python implementatino of Tetris Game, and a simple AI to play game automatically.
 
